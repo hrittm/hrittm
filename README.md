@@ -5,5 +5,6 @@ I'm [Hrittick](https://hrittick.vercel.app/).
 am a philo**MATH** and **TECH**savvy
 
 <br />
+<hr>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/hrittm/hrittm/output/github-contribution-grid-snake.svg)
