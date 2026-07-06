@@ -1,9 +1,9 @@
 ![Banner](assets/shamrock-leaf.jpg)
 
-### _Yo!_ 🪐 
+### _Yo!_ 🪐
 I'm [Hrittick](https://hrittick.vercel.app/)  
 am a philo**MATH** and **TECH**savvy  
-(not nerd)
+(not nerd) :shipit:
 
 ``[status]`` currently refactoring my [dotfiles](https://github.com/hrittm/dotfiles) config   for the 50th time.  
 ``[brain]`` hypr-fixated on solving problems.  
